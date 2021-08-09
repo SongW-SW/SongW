@@ -4,6 +4,6 @@ I am currently a Ph.D. student at the Department of Electrical and Computer Engi
 
 
 #### Publication
-REFORM: Error-Aware Few-Shot Knowledge Graph Completion
-Song Wang, Xiao Huang, Chen Chen, Liang Wu and Jundong Li
+<p>REFORM: Error-Aware Few-Shot Knowledge Graph Completion</p>
+<p>Song Wang, Xiao Huang, Chen Chen, Liang Wu and Jundong Li</p>
 CIKM 2021
